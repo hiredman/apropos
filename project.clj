@@ -1,4 +1,4 @@
-(defproject com.thelastcitadel/apropos "0.1.0-SNAPSHOT"
+(defproject com.thelastcitadel/apropos "0.0.1"
   :description "find information about things"
   :url "http://github.com/hiredman/apropos"
   :license {:name "Eclipse Public License"
